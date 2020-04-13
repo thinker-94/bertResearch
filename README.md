@@ -1,6 +1,6 @@
 # bertPretrain.py
 - Pytorch를 활용해서 BERT를 pretrain 할 수 있는 코드입니다.
-- bert의 pretrain 방법을 자세히 파악하고 싶어서 구현 했습니다.
+- bert의 pretrain 방법을 자세히 알고 싶어서 구현 했습니다.
 
 # bertQaFinetune.py
 - 구글에서 공개한 BERT 오픈소스를 https://github.com/google-research/bert 분석한 코드입니다.
