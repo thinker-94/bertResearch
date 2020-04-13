@@ -3,7 +3,7 @@
 - bert의 pretrain 방법을 자세히 알고 싶어서 구현 했습니다.
 
 # bertQaFinetune.py
-- 구글에서 공개한 [BERT 오픈소스] 분석한 코드입니다.
+- 구글에서 공개한 [BERT 오픈소스]를 분석한 코드입니다.
 - 해당 코드를 통해서 Question answering task에 대해서 finetune 할 수 있습니다.
 
 # bertResearchPPT.pdf
