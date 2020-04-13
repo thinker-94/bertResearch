@@ -7,7 +7,7 @@
 
 # bertResearchPPT.pdf
 - BERT를 연구하고 연구 내용을 정리한 PPT입니다. 
-- BERT의 밑바탕이 되고있는 TRANSFORMER 모델에 대한 분석은 제 [블로그]를 통해 확인할 수 있습니다. 
+- BERT의 밑바탕이 되고있는 TRANSFORMER 모델에 대한 연구 내용은 제 [블로그]를 통해 확인할 수 있습니다. 
 
 [블로그]: https://youngsukblog.tistory.com/2
 [BERT 오픈소스]: https://github.com/google-research/bert
